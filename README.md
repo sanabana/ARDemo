@@ -10,6 +10,8 @@ An android application to show how AR works using ARCore,SceneForm and Java8.
 
 ## Demo
 
+    ![](ar_demo.gif)
+
 ## Developed By
 
     Sananda Banik - banik.sananda2012@gmail.com
