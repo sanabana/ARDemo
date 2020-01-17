@@ -10,7 +10,7 @@ An android application to show how AR works using ARCore,SceneForm and Java8.
 
 ## Demo
 
-    <img src='demo.gif'/>
+    <img src='https://github.com/sanabana/ARDemo/blob/master/demo.gif'/>
 
 ## Developed By
 
